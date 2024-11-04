@@ -39,7 +39,7 @@ git clone https://github.com/HumayunKabirSobuj/Tour-sports-client
 
 ### Step 2: Navigate to the Project Directory
 ```bash
- cd tour-spots-client-site
+ cd tour-spots-client
 ```
 
 ### Step 3: Install Dependencies
