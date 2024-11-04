@@ -1,4 +1,4 @@
-## 🚀 GoWilds - Tourism Management Website
+## 🚀 TourSports - Tourism Management Website
 
 ## 🌐 Live Link: [https://tour-sports.netlify.app/](https://tour-sports.netlify.app/)
 
@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-**GoWilds**  is a website that helps people plan trips in Southeast Asia. It gathers information about popular tourist spots, making it easy for travelers to discover new places and organize their trips. Users can create their own lists of favorite spots, update them, and find information based on price and location.
+**TourSports**  is a website that helps people plan trips in Southeast Asia. It gathers information about popular tourist spots, making it easy for travelers to discover new places and organize their trips. Users can create their own lists of favorite spots, update them, and find information based on price and location.
 
 ---
 
@@ -30,7 +30,7 @@
 
 
 ## ⚙️ Installation Guide
-To set up **Gowilds** on your local machine, follow these steps:
+To set up **TourSports** on your local machine, follow these steps:
 
 ### Step 1: Clone the Client Repository
 ```bash

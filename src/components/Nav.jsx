@@ -66,7 +66,7 @@ const Nav = () => {
                     <Link to='/' className=" flex items-center md:font-bold  ml-1 md:text-3xl ">
 
 
-                        <span ><font color="text-red-500">Go</font>Wilds</span>
+                        <span ><font color="text-red-500">Tour</font>Sports</span>
 
 
                     </Link>
